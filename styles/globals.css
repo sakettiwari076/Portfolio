@@ -5,3 +5,13 @@
 body {
   background-color: black;
 }
+.margin2 {
+margin-right: 41.5rem;
+}
+.img1 {
+  position: relative;
+  left: 100%;
+  bottom: 40%;
+}
+
+
