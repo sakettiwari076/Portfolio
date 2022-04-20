@@ -3,14 +3,20 @@
 @tailwind utilities;
 
 body {
-  background-color: black;
+  background-color: rgb(17 24 39);
+  margin: 0;
+  padding: 0;
+}
+*{
+  margin: 0px;
+  padding: 0px;
 }
 .margin2 {
 margin-right: 41.5rem;
 }
 .img1 {
   position: relative;
-  left: 100%;
+  left: 150%;
   bottom: 40%;
 }
 
