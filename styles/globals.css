@@ -19,5 +19,17 @@ margin-right: 41.5rem;
   left: 150%;
   bottom: 40%;
 }
+.heading2 {
+  position: relative;
+  left: 22rem;
+}
+.positionli {
+  position: relative;
+  right: 16rem;
+}
+.icon{
+  font-size: 5em;
+}
+
 
 
